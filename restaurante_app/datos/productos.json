@@ -1,0 +1,14 @@
+[
+  {
+    "id": "PRD-001",
+    "nombre": "Hamburguesa Especial",
+    "precio": 8.50,
+    "categoria": "Platos Fuertes"
+  },
+  {
+    "id": "PRD-002",
+    "nombre": "Jugo Natural de Mora",
+    "precio": 2.50,
+    "categoria": "Bebidas"
+  }
+]

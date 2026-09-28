@@ -1,0 +1,14 @@
+[
+  {
+    "id": "USR-001",
+    "nombre": "Carlos Mendoza",
+    "correo": "carlos@restaurante.com",
+    "rol": "Cliente"
+  },
+  {
+    "id": "USR-002",
+    "nombre": "Ana Gómez",
+    "correo": "ana@restaurante.com",
+    "rol": "Cliente"
+  }
+]
